@@ -1,6 +1,9 @@
 {
     "host": "localhost",
-    "user": "root",
-    "password": "",
-    "database": "test"
+
+    "user": "admin",
+
+    "password": "salum608",
+
+    "database": "nodelogin"
 }

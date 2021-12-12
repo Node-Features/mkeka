@@ -29,4 +29,4 @@ app.use('/', router) // index router {index, login, register pages}
 app.use('/auth', authRouter) // auth router
 app.use('/profile', profileRouter) // profile router
 
-app.listen(process.env.PORT || 3000);
+app.listen(process.env.PORT || 3700);
